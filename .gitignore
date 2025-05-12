@@ -48,3 +48,6 @@ chroma_db/
 # Logs
 *.log
 logs/ 
+
+# Blockchain
+bl3.4/
